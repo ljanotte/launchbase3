@@ -19,21 +19,21 @@
 </p>
 
 <p align="center">
-  <a href="#Sobre.">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#Tecnologia.">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#Baixar-o-projeto.">Baixar</a>
+  <a href="#Sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Tecnologia">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Baixar">Baixar</a>
 </p>
 
 ---
 
-## 📝 Sobre.
+## 📝 Sobre
 
 O projeto **algo** do desafio criado dentro do curso **Bootcamp LaunchBase**
 com intuito de colocarmos em prática todo conteúdo do estudo durante o curso.
 
 ---
 
-## 💻 Tecnologias.
+## 💻 Tecnologias
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
@@ -44,7 +44,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ---
 
-## 🛠 Ferramentas.
+## 🛠 Ferramentas
 
 - Google Chrome
 - Visual Studio Code
@@ -53,7 +53,8 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ---
 
-## 💾 Baixar.
+## 💾 Baixar
+## 💾 Baixar
 
 
 ```bash
