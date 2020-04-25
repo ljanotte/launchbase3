@@ -49,13 +49,12 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - Google Chrome
 - Visual Studio Code
 - NodeJS
-- Git | Github
+- Git
+- Github
 
 ---
 
 ## 💾 Baixar
-## 💾 Baixar
-
 
 ```bash
 # Clonar projeto
