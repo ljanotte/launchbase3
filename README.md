@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Launchbase" src="https://storage.googleapis.com/golden-wind/bootcamp-launchbase/logo.png" width="120px" />
+    <img alt="Launchbase" src="public/logo.png" width="120px" />
 </h1>
 
 <h3 align="center">
@@ -19,9 +19,9 @@
 </p>
 
 <p align="center">
-  <a href="#Sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#Tecnoligia">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#Sobre.">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Tecnologia.">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Baixar-o-projeto.">Baixar</a>
 </p>
 
 ---
@@ -50,7 +50,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ---
 
-## 💾 Baixar o projeto
+## 💾 Baixar o projeto.
 
 
 ```bash
@@ -69,7 +69,7 @@ $ yarm start
 
 ---
 
-## :memo: Licença
+## Licença.
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](../LICENSE) para mais detalhes.
 
