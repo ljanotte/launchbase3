@@ -28,7 +28,7 @@
 
 ## 📝 Sobre.
 
-O projeto ** algo ** do desafio criado dentro do curso ** Bootcamp LaunchBase **
+O projeto **algo** do desafio criado dentro do curso **Bootcamp LaunchBase**
 com intuito de colocarmos em prática todo conteúdo do estudo durante o curso.
 
 ---
@@ -37,20 +37,23 @@ com intuito de colocarmos em prática todo conteúdo do estudo durante o curso.
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-- ⚛️ [HTML](http://#)
-- ⚛️ [CSS](http://#)
-- ⚛️ [JavaScript](http://#)
-- ⚛️ [NodeJS](http://#)
+- ⚛️ [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- ⚛️ [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- ⚛️ [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- ⚛️ [NodeJS](https://nodejs.org/en/)
 
 ---
 
 ## 🛠 Ferramentas.
 
+- Google Chrome
 - Visual Studio Code
+- NodeJS
+- Git | Github
 
 ---
 
-## 💾 Baixar o projeto.
+## 💾 Baixar.
 
 
 ```bash
@@ -66,13 +69,6 @@ $ yarm install
 # Inicializar o projeto
 $ yarm start
 ```
-
----
-
-## Licença.
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](../LICENSE) para mais detalhes.
-
 ---
 <h3 align="center">
 
