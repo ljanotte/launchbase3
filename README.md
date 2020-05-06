@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Desafio 1-1: Primeiros passos com JS
+  LaunchBase Bootcamp 🚀
 </h3>
 
 <p align="center">
@@ -19,34 +19,35 @@
 </p>
 
 <p align="center">
-  <a href="#Sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#Tecnologia">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#Baixar">Baixar</a>
+  <a href="#memorando-Sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#laptop-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#disquete-baixar">Baixar</a>
 </p>
 
 ---
 
-## 📝 Sobre
+## 📝 Sobre 
 
-O projeto **algo** do desafio criado dentro do curso **Bootcamp LaunchBase**
-com intuito de colocarmos em prática todo conteúdo do estudo durante o curso.
+Este **repositório** tem como objetivo armazenar os **Desafio Final Foodfy** do curso **Bootcamp LaunchBase** com intuito de colocarmos em prática todo conteúdo do estudo durante o curso.
 
 ---
 
-## 💻 Tecnologias
+## 💻 Tecnologias 
 
-O projeto foi desenvolvido utilizando as seguintes tecnologias:
+Os desafios são desenvolvido e utilizandos as seguintes tecnologias:
 
 - ⚛️ [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - ⚛️ [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - ⚛️ [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - ⚛️ [NodeJS](https://nodejs.org/en/)
+- ⚛️ [Git](https://git-scm.com/)
+- ⚛️ [GitHub](https://github.com/)
 
 ---
 
 ## 🛠 Ferramentas
 
-- Google Chrome
+-  Google Chrome
 - Visual Studio Code
 - NodeJS
 - Git
@@ -57,17 +58,19 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 ## 💾 Baixar
 
 ```bash
+# 
+
 # Clonar projeto
-$ git clone https://github.com/ljanotte/project
+$ git clone https://github.com/ljanotte/launchbase3
 
 # Entrar no projeto
-$ cd project
+$ cd launchbase3
 
 # Instalar as dependências do projeto
-$ yarm install
+$ node init -y
 
 # Inicializar o projeto
-$ yarm start
+$ node start
 ```
 ---
 <h3 align="center">
