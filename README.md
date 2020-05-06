@@ -19,9 +19,9 @@
 </p>
 
 <p align="center">
-  <a href="#memorando-Sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/ljanotte/launchbase3#-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/ljanotte/launchbase3#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#disquete-baixar">Baixar</a>
+  <a href="https://github.com/ljanotte/launchbase3#-baixar">Baixar</a>
 </p>
 
 ---
