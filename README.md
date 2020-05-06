@@ -28,20 +28,19 @@
 
 ## 📝 Sobre 
 
-Este **repositório** tem como objetivo armazenar os **Desafio Final Foodfy** do curso **Bootcamp LaunchBase** com intuito de colocarmos em prática todo conteúdo do estudo durante o curso.
+Este **repositório** tem como objetivo armazenar os **Desafio Final Foodfy** do curso **Bootcamp LaunchBase** com intuito de colocarmos em prática todo conteúdo estudado durante o curso.
 
 ---
 
 ## 💻 Tecnologias 
 
-Os desafios são desenvolvido e utilizandos as seguintes tecnologias:
+Os desafios são desenvolvidos e utilizandos as seguintes tecnologias:
 
 - ⚛️ [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - ⚛️ [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - ⚛️ [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - ⚛️ [NodeJS](https://nodejs.org/en/)
-- ⚛️ [Git](https://git-scm.com/)
-- ⚛️ [GitHub](https://github.com/)
+
 
 ---
 
@@ -61,7 +60,7 @@ Os desafios são desenvolvido e utilizandos as seguintes tecnologias:
 # 
 
 # Clonar projeto
-$ git clone https://github.com/ljanotte/launchbase3
+$ git clone https://github.com/ljanotte/launchbase3.git
 
 # Entrar no projeto
 $ cd launchbase3
