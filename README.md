@@ -28,7 +28,7 @@
 
 ## 📝 Sobre 
 
-Este **repositório** tem como objetivo armazenar os **Desafio Final Foodfy** do curso **Bootcamp LaunchBase** com intuito de colocarmos em prática todo conteúdo estudado durante o curso.
+Este **repositório** tem como objetivo armazenar os **Desafios** do curso **LaunchBase Bootcamp** com intuito de colocarmos em prática todo conteúdo estudado durante o curso.
 
 ---
 
@@ -57,7 +57,6 @@ Os desafios são desenvolvidos e utilizandos as seguintes tecnologias:
 ## 💾 Baixar
 
 ```bash
-# 
 
 # Clonar projeto
 $ git clone https://github.com/ljanotte/launchbase3.git
@@ -65,11 +64,6 @@ $ git clone https://github.com/ljanotte/launchbase3.git
 # Entrar no projeto
 $ cd launchbase3
 
-# Instalar as dependências do projeto
-$ node init -y
-
-# Inicializar o projeto
-$ node start
 ```
 ---
 <h3 align="center">
